@@ -1,0 +1,48 @@
+body 
+{
+    background-size: cover;
+    
+}
+
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    font-family: 'Rampart One', cursive;
+    margin: 0px;
+}
+
+#start,#number_of_objects,#status
+{
+    font-size: 20px;
+    font-family: 'Rampart One', cursive;
+
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color:black ;
+    bottom: 0;
+    width: 100%;
+    background-color: thistle;
+    line-height: 3;
+    text-align: center;
+
+}
+
+canvas
+{
+border: 2px solid red;
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px rgb(192, 192, 192);
+}
+
+video
+{
+    background : url('R.jpeg');
+    background-size: cover;
+    background-position: center;
+    padding : 25px;
+}
